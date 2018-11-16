@@ -3,5 +3,5 @@ def instantiate_new_array
 end
 
 def two_elem_array
-  array[0,1]
+  [0,1]
 end

@@ -4,3 +4,4 @@ end
 
 def two_elem_array
   array[0,1]
+end
